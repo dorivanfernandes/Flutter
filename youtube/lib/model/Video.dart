@@ -1,4 +1,4 @@
-class Video{
+class Video {
   String id;
   String titulo;
   String imagem;
@@ -6,6 +6,4 @@ class Video{
   String descricao;
 
   Video({this.id, this.titulo, this.imagem, this.canal, this.descricao});
-
-
 }
